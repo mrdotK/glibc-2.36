@@ -1,3 +1,12 @@
+************************************************************************
+Forked from bminor/glibc on May 8, 2022
+
+I will solve the glibc memory guard problem on my own branch.
+And add some memory statistical features.
+
+If you have any questions, please contact me via ldys2014@foxmail.com
+************************************************************************
+
 This directory contains the sources of the GNU C Library.
 See the file "version.h" for what release version you have.
 
